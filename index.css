@@ -18,9 +18,9 @@ body{
 }
 
 main{    
-    padding-bottom: 44px ;
+    padding-bottom: 50px ;
     position: absolute;
-    margin-top: 1rem;
+    margin-top: 5rem;
     background: hsl(225, 100%, 98%);  
     max-width: 27rem; 
     border-bottom-right-radius: 3%; 
